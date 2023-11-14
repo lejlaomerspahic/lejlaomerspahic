@@ -22,8 +22,8 @@ Software Engineer who loves coding and learning different technologies. I am con
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lejlaomerspahic&show_icons=true&locale=en&layout=compact" alt="lejlaomerspahic" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lejlaomerspahic&show_icons=true&locale=en&layout=compact" alt="lejlaomerspahic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lejlaomerspahic&show_icons=true&locale=en" alt="lejlaomerspahic" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lejlaomerspahic&show_icons=true&locale=en" alt="lejlaomerspahic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lejlaomerspahic&" alt="lejlaomerspahic" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=lejlaomerspahic&" alt="lejlaomerspahic" /></p>
