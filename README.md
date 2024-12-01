@@ -4,9 +4,8 @@
 
 Software Engineer who loves coding and learning different technologies. I am constantly trying to improve my skills to get a chance to work on some Software projects and gain valuable experience for my future.
 
-- 🌍 I'm based in Zenica, Bosnia and Herzegovina
+- 🌍 I'm based in Sarajevo, Bosnia and Herzegovina
 - ✉️ You can contact me at [lejla.omerspahic01@gmail.com](mailto:lejla.omerspahic01@gmail.com)
-- 🧠 I'm learning React/Spring Boot
 
 ### Skills
 
